@@ -21,8 +21,7 @@ Team_# | Name | Email
 6 | chikoti,revathi | revathi.kpf303@gmail.com
 7 | Krishna,Saka | krishna09eee@gmail.com
 7 | Lavanya Mengaraboina | lavanyamengaraboina@gmail.com
-7 | kattreddy, Madhuchirra Reddy | madhureddykp477@gmail.com
-8 | Mogalapu, Shaila S. | sweety.shailamogalapu@gmail.com
+7 | apu, Shaila S. | sweety.shailamogalapu@gmail.com
 8 | Mongolu,Anusha | anusha.mongolu94@gmail.com
 8 | Nagireddy, Sreeja | sreejanagireddy589@gmail.com
 9 | Nagulapally,SaiKiran Reddy | saikiranreddy791@outlook.com
